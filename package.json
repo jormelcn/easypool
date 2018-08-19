@@ -1,0 +1,23 @@
+{
+  "name": "easypool",
+  "version": "0.0.9",
+  "description": "Generic pool manager",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "pool",
+    "sql",
+    "generic",
+    "easy"
+  ],
+  "author": "Jorge Narváez",
+  "license": "MIT",
+  "dependencies": {
+    "@types/debug": "0.0.30",
+    "@types/mocha": "^5.2.0",
+    "@types/node": "^10.0.4",
+    "debug": "^3.1.0"
+  }
+}
